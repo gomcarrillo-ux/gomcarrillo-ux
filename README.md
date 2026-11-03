@@ -1,81 +1,115 @@
-::: {align="center"}
+<div align="center">
+
 # Gabriel Carrillo
 
-### Systems Engineering Student · Python Developer in Progress
+### Estudiante de Ingeniería de Sistemas | Python Developer en formación
 
-Building a strong foundation in software development, problem-solving,
-and computer science.
+Aprendiendo, desarrollando y construyendo soluciones mediante la programación.
 
-[![GitHub](https://img.shields.io/badge/GitHub-gomcarrillo--ux-181717?style=flat-square&logo=github)](https://github.com/gomcarrillo-ux)
-[![Python](https://img.shields.io/badge/Focus-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-:::
+[![GitHub](https://img.shields.io/badge/GitHub-gomcarrillo--ux-181717?style=for-the-badge&logo=github)](https://github.com/gomcarrillo-ux)
+[![Instagram](https://img.shields.io/badge/Instagram-%40el__buen__gab-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/el_buen_gab)
+[![Email](https://img.shields.io/badge/Email-Contactar-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gomcarrillo@uamv.edu.ni)
 
-------------------------------------------------------------------------
+</div>
 
-## About
+---
 
-I am a Systems Engineering student interested in software development
-and the fundamentals of computer science. I am currently strengthening
-my Python skills, practicing problem-solving, and studying core concepts
-such as data structures and programming logic.
+## 👨‍💻 Sobre mí
 
-I use this profile to document my learning process, share academic work,
-and develop practical projects.
+Soy estudiante de **Ingeniería de Sistemas** y actualmente estoy desarrollando mis habilidades en **Python**, programación y fundamentos de ingeniería de software.
 
-## Technical Focus
+- 🎓 Ingeniería de Sistemas.
+- 🐍 Python y lógica de programación.
+- 🧩 Estructuras de datos y algoritmos.
+- 💻 Desarrollo de software y herramientas tecnológicas.
+- 🚀 Aprendizaje continuo mediante proyectos prácticos.
 
-  Area                    Current focus
-  ----------------------- -------------------------------------------
-  **Programming**         Python fundamentals and problem-solving
-  **Computer science**    Data structures and algorithms
-  **Development tools**   Git, GitHub, and Visual Studio Code
-  **Engineering**         Software development and systems analysis
+## 🛠️ Tecnologías y herramientas
 
-## Tech Stack
+<div align="center">
 
-::: {align="left"}
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio
-Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-:::
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
-## GitHub Analytics
+</div>
 
-::: {align="center"}
-`<a href="https://github.com/gomcarrillo-ux">`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=gomcarrillo-ux&show_icons=true&hide_border=true&include_all_commits=true&rank_icon=github&theme=default" alt="GitHub profile statistics" />`{=html}
-`</a>`{=html} `<a href="https://github.com/gomcarrillo-ux">`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomcarrillo-ux&layout=compact&hide_border=true&theme=default" alt="Most used programming languages" />`{=html}
-`</a>`{=html}
-:::
+## 📊 Mis estadísticas de GitHub
 
-## Projects
+Estas tarjetas consultan servicios externos y muestran datos asociados a mi cuenta de GitHub. La información se actualiza cuando los servicios vuelven a consultar la API de GitHub.
 
-A selection of my academic and personal work:
+<div align="center">
 
--   **Python practice** --- exercises and small applications created
-    while learning the language.
--   **Data structures** --- implementations and experiments with
-    fundamental structures.
--   **Systems engineering** --- academic projects related to software
-    and information systems.
+<!-- Estadísticas generales: commits, estrellas, PR y contribuciones -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gomcarrillo-ux&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas generales de GitHub" />
 
-➡️ **[Explore all
-repositories](https://github.com/gomcarrillo-ux?tab=repositories)**
+<!-- Distribución de lenguajes por repositorios -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomcarrillo-ux&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
 
-## Current Learning Goals
+<!-- Racha de contribuciones -->
+<img width="75%" src="https://streak-stats.demolab.com?user=gomcarrillo-ux&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Racha de contribuciones en GitHub" />
 
--   Improve Python programming and debugging skills.
--   Understand and implement common data structures and algorithms.
--   Build practical projects and document them clearly.
--   Develop good software engineering and version-control practices.
+<!-- Actividad a lo largo del tiempo -->
+<a href="https://github.com/gomcarrillo-ux">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=gomcarrillo-ux&theme=tokyo-night&hide_border=true&area=true" alt="Gráfico de actividad de GitHub" />
+</a>
 
-------------------------------------------------------------------------
+</div>
 
-::: {align="center"}
-**Thanks for visiting my profile.**
+### Indicadores de mi perfil
 
-*Learning consistently. Building thoughtfully. Improving every day.*
-:::
+<div align="center">
+
+![Seguidores](https://img.shields.io/github/followers/gomcarrillo-ux?style=for-the-badge&logo=github&label=Seguidores&color=7AA2F7)
+![Repositorios públicos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fgomcarrillo--ux&query=%24.public_repos&label=Repositorios%20p%C3%BAblicos&style=for-the-badge&logo=github&color=7AA2F7)
+![Visitas al perfil](https://komarev.com/ghpvc/?username=gomcarrillo-ux&style=for-the-badge&color=7AA2F7&label=Visitas+al+perfil)
+
+</div>
+
+## 🚀 Proyectos
+
+Puedes consultar mis repositorios y proyectos desde mi perfil:
+
+<div align="center">
+
+[![Ver repositorios](https://img.shields.io/badge/Explorar_mis_repositorios-181717?style=for-the-badge&logo=github)](https://github.com/gomcarrillo-ux?tab=repositories)
+
+</div>
+
+<!--
+Para destacar proyectos concretos, copia este bloque y sustituye los datos:
+
+### [Nombre del proyecto](https://github.com/gomcarrillo-ux/NOMBRE-DEL-REPOSITORIO)
+Descripción breve del proyecto, su objetivo y las tecnologías utilizadas.
+-->
+
+## 🎯 Objetivos de aprendizaje
+
+- Profundizar en Python.
+- Dominar estructuras de datos y algoritmos.
+- Mejorar mis prácticas con Git y GitHub.
+- Desarrollar proyectos funcionales y documentados.
+- Ampliar mis conocimientos de Ingeniería de Sistemas.
+
+## 📬 Contacto
+
+<div align="center">
+
+| Plataforma | Contacto |
+|:---|:---|
+| **GitHub** | [@gomcarrillo-ux](https://github.com/gomcarrillo-ux) |
+| **Instagram** | [@el_buen_gab](https://instagram.com/el_buen_gab) |
+| **Correo** | [gomcarrillo@uamv.edu.ni](mailto:gomcarrillo@uamv.edu.ni) |
+
+</div>
+
+---
+
+<div align="center">
+
+**Gracias por visitar mi perfil.**
+
+*Aprendiendo constantemente. Creando con propósito.*
+
+</div>
