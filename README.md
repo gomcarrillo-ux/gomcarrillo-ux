@@ -1,5 +1,3 @@
-# gomcarrillo-ux
-
 ::: {align="center"}
 # Gabriel Carrillo
 
